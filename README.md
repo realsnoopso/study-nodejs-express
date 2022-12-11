@@ -1,2 +1,12 @@
 # study-nodejs-express
-공식 docs를 통해 Node.js 및 express를 공부합니다.
+
+express 공식 docs를 통해 API 서버를 배포해봅니다.
+
+# 환경
+
+- Node.js (v.19)
+- 패키지: express
+
+# 작업 일지
+
+-
